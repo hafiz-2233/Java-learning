@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class number {
+public class Main {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the day number(1-7)");
